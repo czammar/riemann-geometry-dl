@@ -1,6 +1,6 @@
 # Riemann Geometry & Deep Learning (`riemann-geometry-dl`)
 
-Este repositorio contiene experimentos, modelos y código de investigación del post de Substask "¿Cómo afecta la geometría a los modelos de Deep Learning?" centrados en la aplicación de la **Geometría Riemannaniana** a Deep Learning. El proyecto utiliza la suite de herramientas de Python basadas en [`uv`](https://github.com/astral-sh/uv) para un manejo eficiente de entornos virtuales y dependencias.
+Este repositorio contiene experimentos, modelos y código de investigación del post de Substask ["¿Cómo afecta la geometría a los modelos de Deep Learning?"](https://cesarzammar.substack.com/p/como-afecta-la-geometria-a-los-modelos?r=2iqk5m) centrados en la aplicación de la **Geometría Riemannaniana** a Deep Learning. El proyecto utiliza la suite de herramientas de Python basadas en [`uv`](https://github.com/astral-sh/uv) para un manejo eficiente de entornos virtuales y dependencias.
 
 ---
 
