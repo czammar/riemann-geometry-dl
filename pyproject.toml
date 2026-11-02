@@ -1,0 +1,25 @@
+[project]
+name = "riemann-geometry-dl"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "geomstats>=2.8.0",
+    "nbformat>=4.2.0",
+    "networkx>=3.6.1",
+    "numpy<2.0",
+    "plotly>=7.1.0",
+    "torch>=2.2.2",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+]
+
+[tool.uv]
+environments = [
+    "sys_platform == 'darwin' and platform_machine == 'arm64'",
+    "sys_platform == 'darwin' and platform_machine == 'x86_64'"
+]
